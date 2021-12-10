@@ -24,5 +24,5 @@
   <a href = "mailto:weverton.costa2011.wc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
   <a href="https://www.youtube.com/channel/UCnmA2GJduSKJ2_bL-NEG9gw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
-  
+    
   ![Snake animation](https://github.com/Wev-at2/Wev-at2/blob/output/github-contribution-grid-snake.svg)
