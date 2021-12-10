@@ -25,4 +25,4 @@
   <a href="https://www.youtube.com/channel/UCnmA2GJduSKJ2_bL-NEG9gw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
   
-  ![Snake animation](https://github.com/Wev-at2/wev-at2/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Wev-at2/Wev-at2/blob/output/github-contribution-grid-snake.svg)
