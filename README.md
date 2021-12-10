@@ -2,8 +2,10 @@
 
 <div>
   <a href="https://github.com/Wev-at2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wev-at2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wev-at2&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wev-at2&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wev-at2&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
+  
 </div>
 <div align="left" style="display: inline_block"><br>
   <img align="center" alt="Wev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
