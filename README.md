@@ -11,9 +11,14 @@
 <div align="left" style="display: inline_block"><br>
   <img align="center" alt="Wev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<!--
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
--->
+<!--   
+  <img align="center" alt="Wev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Wev-React" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
+  <img align="center" alt="Wev-SalesForce" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
+  <img align="center" alt="Wev-Wordpress" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+-->      
+  <img align="center" alt="Wev-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+          
   <img align="right" alt="Wev-pic" height="110" style="border-radius:50px;" src="https://qswzfw.bn.files.1drv.com/y4mx7ujOv-7OjLG5DSeEV1SLS_CWSF0hQKHtC4ecdcyYMopwwKoElpiRfuj0zm64iILdwXCOqiiS9su4TrgR7MMJhyOsdjFw8Ds5SsrStMVVa3atKHz6ZuNYLVIUDYVvtVhtGU5oeTs73WcMiltVrwYTTVM72mFjbOLkard9CGUUqZInaMVDfw-wecdg5km4Fe9nlvxnr_EW8cOn2InuIEfvQ/Deadpool%20Ryan%20Reynolds%20GIF%20-%20Deadpool%20Ryan%20Reynolds%20Shocked%20-%20Discover%20%26%20Share%20GIFs.gif?psid=1">
 </div>
   
