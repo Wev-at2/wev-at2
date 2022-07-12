@@ -21,7 +21,7 @@
   <img align="center" alt="Wev-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   
           
-  <img align="right" alt="Wev-pic" height="110" style="border-radius:50px;" src="https://qswzfw.bn.files.1drv.com/y4mx7ujOv-7OjLG5DSeEV1SLS_CWSF0hQKHtC4ecdcyYMopwwKoElpiRfuj0zm64iILdwXCOqiiS9su4TrgR7MMJhyOsdjFw8Ds5SsrStMVVa3atKHz6ZuNYLVIUDYVvtVhtGU5oeTs73WcMiltVrwYTTVM72mFjbOLkard9CGUUqZInaMVDfw-wecdg5km4Fe9nlvxnr_EW8cOn2InuIEfvQ/Deadpool%20Ryan%20Reynolds%20GIF%20-%20Deadpool%20Ryan%20Reynolds%20Shocked%20-%20Discover%20%26%20Share%20GIFs.gif?psid=1">
+  <img align="right" alt="Wev-pic" height="110" style="border-radius:50px;" src="https://1drv.ms/u/s!AlVWyPQLh125qC44EZ_E7a0g6MWH">
 </div>
   
   ##
