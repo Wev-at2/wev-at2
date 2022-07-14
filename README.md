@@ -21,7 +21,7 @@
   <img align="center" alt="Wev-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   
           
-  <img align="right" alt="Wev-pic" height="110" style="border-radius:50px;" src="https://1drv.ms/u/s!AlVWyPQLh125qC6YE7GN4lnT4B_B">
+  <img align="right" alt="Wev-pic" height="110" style="border-radius:50px;" src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif">
 </div>
   
   ##
