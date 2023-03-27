@@ -41,7 +41,7 @@
         <img height="40" width="40" src="https://cdn.simpleicons.org/vtex" alt="VTEX" title="VTEX" />
 	</a>
 	<a href="https://vnda.com.br/" target="_blank">
-        <img height="35"  src="https://www.vnda.com.br/images/vnda.svg" alt="VTEX" title="VNDA. by Olist" />
+        <img height="35"  src="https://www.vnda.com.br/images/vnda.svg" alt="Vnda. by Olist" title="Vnda. by Olist" />
 	</a>
 </div>
 
