@@ -4,8 +4,8 @@
 
 <div align="center" >
 	<a href="https://github.com/Wev-at2">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Wev-at2&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wev-at2&langs_count=8&layout=compact&theme=github_dark"/>
+        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Wev-at2&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wev-at2&langs_count=8&layout=compact&theme=transparent"/>
     </a>
 </div>
 
