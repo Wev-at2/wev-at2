@@ -41,7 +41,7 @@
         <img height="40" width="40" src="https://cdn.simpleicons.org/vtex" alt="VTEX" title="VTEX" />
 	</a>
 	<a href="https://vnda.com.br/" target="_blank">
-        <img height="35"  src="https://www.vnda.com.br/images/vnda.svg" alt="Vnda. by Olist" title="Vnda. by Olist" />
+        <img height="38"  src="https://www.vnda.com.br/images/vnda-white.svg" alt="Vnda. by Olist" title="Vnda. by Olist" />
 	</a>
 </div>
 
@@ -50,7 +50,7 @@
 <h2 align="center">Parcerias</h2>
 <div align="center">
     <a href="https://thealfred.com.br" target="_blank">
-        <img width="120" src="https://www.thealfred.com.br/static/media/logo-light.698851ef3f76e5d53f1a11f1bbf363d4.svg" target="_blank" title="THE ALFRED DIGITAL">
+        <img width="120" src="https://www.thealfred.com.br/static/media/logo-light.698851ef3f76e5d53f1a11f1bbf363d4.svg" target="_blank" title="THE ALFRED">
     </a>
 </div>
 
