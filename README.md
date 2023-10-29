@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C6B94&height=160&section=header&text=Weverton%20Costa🙅‍♂️&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=093366&height=160&section=header&text=Weverton%20Costa🙅‍♂️&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Front-end+Junior)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=093366&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Front-end+Junior)](https://git.io/typing-svg)
 
 <div align="center" >
 	<a href="https://github.com/Wev-at2">
@@ -81,4 +81,4 @@
     </a>
 </div>
 
-![Snake animation](https://github.com/Wev-at2/Wev-at2/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Wev-at2/Wev-at2/blob/output/github-contribution-grid-snake.svg) -->
