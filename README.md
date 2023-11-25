@@ -4,9 +4,14 @@
 
 <div align="center" >
 	<a href="https://github.com/Wev-at2">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Wev-at2&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wev-at2&langs_count=8&layout=donut&theme=transparent"/>
-    </a>
+	        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Wev-at2&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+	        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wev-at2&langs_count=12&card_width=460&layout=compact&theme=transparent"/>
+	</a>	
+</div>
+<div align="center" >
+	<a href="https://github.com/Wev-at2">
+  		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wev-at2&repo=wevertoncosta.com&theme=transparent" />
+	</a>	
 </div>
 
 <h2 align="center">Linguagens e Ferramentas</h2>
