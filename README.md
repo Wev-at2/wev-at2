@@ -96,4 +96,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wev-at2/wev-at2/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Snake animation](https://github.com/Wev-at2/Wev-at2/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Wev-at2/Wev-at2/blob/output/github-contribution-grid-snake.svg) -->
