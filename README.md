@@ -79,9 +79,9 @@
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/artist/0HJI2V2PaHVck1oMmJNLKm "Wev Costa no Sportify")&nbsp;&nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@wevcosta?sub_confirmation=1 "Wev Costa no YouTube")&nbsp;&nbsp;
-[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white)](music.youtube.com/channel/UCfAckFbawMk2wuOyGyRBnCA "Wev Costa no YouTube Music")&nbsp;&nbsp;
+[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UCfAckFbawMk2wuOyGyRBnCA "Wev Costa no YouTube Music")&nbsp;&nbsp;
 [![Apple Music](https://img.shields.io/badge/Apple%20Music-F34E68?logo=apple%20music&logoColor=white)](https://music.apple.com/br/artist/wev-costa/1772074974 "Wev Costa no Apple Music")&nbsp;&nbsp;
-[![Deezer](https://img.shields.io/badge/Deezer-a237ff?logo=deezer&logoColor=white)](https://music.apple.com/br/artist/wev-costa/1772074974 "Wev Costa no Deezer")&nbsp;&nbsp;
+[![Deezer](https://img.shields.io/badge/Deezer-a237ff?logo=deezer&logoColor=white)](https://www.deezer.com/br/artist/284082641 "Wev Costa no Deezer")&nbsp;&nbsp;
 [![Tidal](https://img.shields.io/badge/Tidal-000000?logo=Tidal&logoColor=white)](https://tidal.com/browse/artist/50797942 "Wev Costa no Tidal")&nbsp;&nbsp;
 [![Soundcloud](https://img.shields.io/badge/Soundcloud-FF3300?logo=Soundcloud&logoColor=white)](https://soundcloud.com/wevcosta "Wev Costa no SoundCloud")	
 </div>
