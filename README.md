@@ -69,7 +69,7 @@
 <h2 align="center">Entre em contato:</h2>
 <div align="center">
 	
-[![Portifólio](https://img.shields.io/badge/Portifolio-%23000000.svg?logo=vercel&logoColor=white)](https://www.wevertoncosta.com.br "Visite meu portfólio")&nbsp;&nbsp;
+[![Portifólio](https://img.shields.io/badge/Portifolio-%23000000.svg?logo=vercel&logoColor=white)](https://www.wevertoncosta.dev.br "Visite meu portfólio")&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in//weverton-costa "LinkedIn")&nbsp;&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511981304510 "WhatsApp")&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Wev-at2 "GitHub")&nbsp;&nbsp;
