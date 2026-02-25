@@ -3,10 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=093366&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Front-end+e+UI+Designer)](https://git.io/typing-svg)
 
 <div align="center" >
-	<a href="https://github.com/Wev-at2">
-	        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Wev-at2&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-	        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wev-at2&langs_count=12&card_width=460&layout=compact&theme=transparent"/>
-	</a>	
+
+<div style="display:flex;flex-direction:row;justify-content:center;">
+	<img height="140"  src="https://streak-stats.demolab.com/?user=wev-at2&count_private=true&theme=react&border_radius-10" alt="streak stats" style="margin: 0" />
+	<img height="140"  src="https://github-readme-stats-salesp07.vercel.app/api?username=wev-at2&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=5" alt="readme stats" style="margin: 0" /> 
+	<img height="140"  src="https://github-readme-stats.vercel.app/api/top-langs?username=wev-at2&show_icons=true&locale=en&layout=compact&theme=react&border_radius=4&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="wev-at2" style="margin: 0" />
+</div>
+
+	
 </div>
 <div align="center" >
 	<a href="https://github.com/Wev-at2">
