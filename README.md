@@ -54,18 +54,6 @@
 
 ***************
 
-<h2 align="center">Parcerias</h2>
-<div align="center">
-    <a href="https://thealfred.com.br" target="_blank">
-        <img height="30" src="https://www.thealfred.com.br/static/media/logo-light.698851ef3f76e5d53f1a11f1bbf363d4.svg" target="_blank" ALT="THE ALFRED DIGITAL" title="THE ALFRED DIGITAL">
-    </a>&nbsp;&nbsp;
-    <a href="https://volupia.digital" target="_blank">
-        <img height="30" src="https://volupia.digital/wp-content/uploads/2022/12/cropped-logo-colorido.png" target="_blank" ALT="VOLÚPIA DIGITAL" title="VOLÚPIA DIGITAL">
-    </a>
-</div>
-
-***************
-
 <h2 align="center">Entre em contato:</h2>
 <div align="center">
 	
