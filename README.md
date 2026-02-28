@@ -7,9 +7,11 @@
 <div style="display:flex;flex-direction:row;justify-content:center;">
 	<img src="https://streak-stats.demolab.com/?user=wev-at2&count_private=true&locale=pt-BR&theme=react&border_radius=10" alt="streak stats" style="margin: 0" />
 	 <br>
-	<img src="https://github-readme-stats-salesp07.vercel.app/api?username=wev-at2&count_private=true&show_icons=true&locale=pt-BR&theme=react&rank_icon=github&border_radius=10" alt="readme stats" style="margin: 0" /> 
 	 <br>
-	<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=wev-at2&count_private=true&show_icons=true&locale=pt-BR&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="wev-at2" style="margin: 0" />
+	<img src="https://github-readme-stats-salesp07.vercel.app/api?username=wev-at2&count_private=true&show_icons=true&locale=pt-BR&theme=react&border_radius=10&include_all_commits=true&hide=issues,prs&rank_icon=github&custom_title=Estatística%20do%20GitHub%20de%20Weverton%20Costa" alt="readme stats" style="margin: 0" /> 
+	 <br>
+	 <br>
+	<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=wev-at2&count_private=true&show_icons=true&locale=pt-BR&theme=react&border_radius=10&layout=donut&size_weight=1&count_weight=1&exclude_repo=github-readme-stats" alt="wev-at2" style="margin: 0" />
   		<!-- <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Wev-at2&repo=wevertoncosta.com&theme=transparent" /> -->
 </div>
 <h2 align="center">Linguagens e Ferramentas</h2>
@@ -25,7 +27,6 @@
 	<img height="40" width="40" src="https://cdn.simpleicons.org/less" alt="LESS" title="LESS" />&nbsp;&nbsp;&nbsp;
 	<img height="40" width="40" src="https://cdn.simpleicons.org/styledcomponents" alt="Styled-components" title="Styled-components" />&nbsp;&nbsp;&nbsp;
 	<img height="40" width="40" src="https://cdn.simpleicons.org/pug" alt="PUG" title="PUG" />&nbsp;&nbsp;&nbsp;
-	<img height="40" width="40" src="https://cdn.simpleicons.org/liquid" alt="PUG" title="PUG" />&nbsp;&nbsp;&nbsp;
 	<img height="40" width="40" src="https://cdn.simpleicons.org/npm" alt="NPM" title="NPM" />&nbsp;&nbsp;&nbsp;
 	<img height="40" width="40" src="https://cdn.simpleicons.org/node.js" alt="NODE.JS" title="NODE.JS" />&nbsp;&nbsp;&nbsp; 
 	<img height="40" width="40" src="https://cdn.simpleicons.org/git" alt="GIT" title="GIT" />&nbsp;&nbsp;&nbsp;
